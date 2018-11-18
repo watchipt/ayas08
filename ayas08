@@ -1,66 +1,76 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BO:france1" tvg-logo="" group-title="{BOUQUET_NAME}",BO:france1
-http://212.8.253.47:88/live/329056230761828/329056230761828/3689.m3u8
-#EXTINF:-1 tvg-name="Iptv4sat.com :france-2" tvg-logo="" group-title="{BOUQUET_NAME}",Iptv4sat.com :france-2
-http://212.8.253.47:88/live/329056230761828/329056230761828/3690.m3u8
-#EXTINF:-1 tvg-name="BO:France-3" tvg-logo="" group-title="{BOUQUET_NAME}",BO:France-3
-http://212.8.253.47:88/live/329056230761828/329056230761828/3712.m3u8
-#EXTINF:-1 tvg-name="BO:France-4" tvg-logo="" group-title="{BOUQUET_NAME}",BO:France-4
-http://212.8.253.47:88/live/329056230761828/329056230761828/3692.m3u8
-#EXTINF:-1 tvg-name="BO:France-5" tvg-logo="" group-title="{BOUQUET_NAME}",BO:France-5
-http://212.8.253.47:88/live/329056230761828/329056230761828/3693.m3u8
-#EXTINF:-1 tvg-name="BO:France-6" tvg-logo="" group-title="{BOUQUET_NAME}",Iptv4sat.com :France-6
-http://212.8.253.47:88/live/329056230761828/329056230761828/3694.m3u8
-#EXTINF:-1 tvg-name="BO:france_7" tvg-logo="" group-title="{BOUQUET_NAME}",BO:france_7
-http://212.8.253.47:88/live/329056230761828/329056230761828/3695.m3u8
-#EXTINF:-1 tvg-name="BO:france_8" tvg-logo="" group-title="{BOUQUET_NAME}",BO:france_8
-http://212.8.253.47:88/live/329056230761828/329056230761828/3696.m3u8
-#EXTINF:-1 tvg-name="BO:france_9" tvg-logo="" group-title="{BOUQUET_NAME}",BO:france_9
-http://212.8.253.47:88/live/329056230761828/329056230761828/3697.m3u8
-#EXTINF:-1 tvg-name="BO:Eng1" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng1
-http://212.8.253.47:88/live/329056230761828/329056230761828/3751.m3u8
-#EXTINF:-1 tvg-name="BO:Eng2" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng2
-http://212.8.253.47:88/live/329056230761828/329056230761828/3752.m3u8
-#EXTINF:-1 tvg-name="BO:Eng3" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng3
-http://212.8.253.47:88/live/329056230761828/329056230761828/3753.m3u8
-#EXTINF:-1 tvg-name="BO:Eng4" tvg-logo="" group-title="{BOUQUET_NAME}",Iptv4sat.com :Eng4
-http://212.8.253.47:88/live/329056230761828/329056230761828/3754.m3u8
-#EXTINF:-1 tvg-name="BO:Eng5" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng5
-http://212.8.253.47:88/live/329056230761828/329056230761828/3755.m3u8
-#EXTINF:-1 tvg-name="BO:Eng6" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng6
-http://212.8.253.47:88/live/329056230761828/329056230761828/3756.m3u8
-#EXTINF:-1 tvg-name="BO:Eng7" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng7
-http://212.8.253.47:88/live/329056230761828/329056230761828/3757.m3u8
-#EXTINF:-1 tvg-name="BO:Eng8" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng8
-http://212.8.253.47:88/live/329056230761828/329056230761828/3762.m3u8
-#EXTINF:-1 tvg-name="BO:Eng9" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng9
-http://212.8.253.47:88/live/329056230761828/329056230761828/3763.m3u8
-#EXTINF:-1 tvg-name="Enf-Disney Junior" tvg-logo="http://logo.ndasat.com/iptv/images/2858_disneyjunior.jpg" group-title="{BOUQUET_NAME}",Enf-Disney Junior
-http://212.8.253.47:88/live/329056230761828/329056230761828/1523.m3u8
-#EXTINF:-1 tvg-name="Enf-Disney XD" tvg-logo="http://logo.ndasat.com/iptv/images/75344_disneyxd.jpg" group-title="{BOUQUET_NAME}",Enf-Disney XD
-http://212.8.253.47:88/live/329056230761828/329056230761828/2165.m3u8
-#EXTINF:-1 tvg-name="Enf-Disney fr" tvg-logo="http://logo.ndasat.com/iptv/images/38957_disney_channel_global.png" group-title="{BOUQUET_NAME}",Enf-Disney fr
-http://212.8.253.47:88/live/329056230761828/329056230761828/300.m3u8
-#EXTINF:-1 tvg-name="Enf-Disney Cinemagic" tvg-logo="http://logo.ndasat.com/iptv/images/50870_disney_cinema_fr.png" group-title="{BOUQUET_NAME}",Enf-Disney Cinemagic
-http://212.8.253.47:88/live/329056230761828/329056230761828/298.m3u8
-#EXTINF:-1 tvg-name="Enf-CanalJ" tvg-logo="http://logo.ndasat.com/iptv/images/24431_images.jpg" group-title="{BOUQUET_NAME}",Enf-CanalJ
-http://212.8.253.47:88/live/329056230761828/329056230761828/492.m3u8
-#EXTINF:-1 tvg-name="Enf-MANGA HD" tvg-logo="http://logo.ndasat.com/iptv/images/87787_mangas_fr.png" group-title="{BOUQUET_NAME}",Enf-MANGA HD
-http://212.8.253.47:88/live/329056230761828/329056230761828/490.m3u8
-#EXTINF:-1 tvg-name="J-one" tvg-logo="" group-title="{BOUQUET_NAME}",J-one
-http://212.8.253.47:88/live/329056230761828/329056230761828/3673.m3u8
-#EXTINF:-1 tvg-name="Toonami" tvg-logo="" group-title="{BOUQUET_NAME}",Toonami
-http://212.8.253.47:88/live/329056230761828/329056230761828/3670.m3u8
-#EXTINF:-1 tvg-name="Game one" tvg-logo="http://logo.ndasat.com/iptv/images/87708_gameone.jpg" group-title="{BOUQUET_NAME}",Game one
-http://212.8.253.47:88/live/329056230761828/329056230761828/1524.m3u8
-#EXTINF:-1 tvg-name="InfoSport" tvg-logo="http://logo.ndasat.com/iptv/images/19280_infosport.jpg" group-title="{BOUQUET_NAME}",InfoSport
-http://212.8.253.47:88/live/329056230761828/329056230761828/500.m3u8
-#EXTINF:-1 tvg-name="Bein Sport 1 HD" tvg-logo="http://logo.ndasat.com/iptv/images/97180_111.png" group-title="{BOUQUET_NAME}",Iptv4sat.com Bein Sport 1 HD
-http://212.8.253.47:88/live/329056230761828/329056230761828/69.m3u8
-#EXTINF:-1 tvg-name="Bein Sport 2 HD" tvg-logo="http://logo.ndasat.com/iptv/images/70321_112.png" group-title="{BOUQUET_NAME}",Bein Sport 2 HD
-http://212.8.253.47:88/live/329056230761828/329056230761828/70.m3u8
-#EXTINF:-1 tvg-name="Bein Sport 3 HD" tvg-logo="http://logo.ndasat.com/iptv/images/37013_113.png" group-title="{BOUQUET_NAME}",Bein Sport 3 HD
-http://212.8.253.47:88/live/329056230761828/329056230761828/71.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORT MAX4" tvg-logo="http://logo.ndasat.com/iptv/images/57944_bmmn.png" group-title="{BOUQUET_NAME}",BEIN SPORT MAX4
-http://212.8.253.47:88/live/329056230761828/329056230761828/978.m3u8
+#EXTINF:-1,24 Kitchen HD
+http://rb-group-server.com:25461/12341234/12341234/5014
+#EXTINF:-1,Axn. Black HD
+http://rb-group-server.com:25461/12341234/12341234/5048
+#EXTINF:-1,AXN. HD
+http://rb-group-server.com:25461/12341234/12341234/5050
+#EXTINF:-1,Axn. White HD
+http://rb-group-server.com:25461/12341234/12341234/5049
+#EXTINF:-1,RTP 1
+http://rb-group-server.com:25461/12341234/12341234/5076
+#EXTINF:-1,RTP 2
+http://rb-group-server.com:25461/12341234/12341234/5075
+#EXTINF:-1,RTP 3
+http://rb-group-server.com:25461/12341234/12341234/5074
+#EXTINF:-1,RTP  Acores
+http://rb-group-server.com:25461/12341234/12341234/5070
+#EXTINF:-1,RTP Africa
+http://rb-group-server.com:25461/12341234/12341234/5071
+#EXTINF:-1,RTP Madeira
+http://rb-group-server.com:25461/12341234/12341234/5072
+#EXTINF:-1,RTP Memoria
+http://rb-group-server.com:25461/12341234/12341234/5073
+#EXTINF:-1,TV Cine 1HD
+http://rb-group-server.com:25461/12341234/12341234/5060
+#EXTINF:-1,TV Cine 2
+http://rb-group-server.com:25461/12341234/12341234/5059
+#EXTINF:-1,TV Cine 3
+http://rb-group-server.com:25461/12341234/12341234/5058
+#EXTINF:-1,TV Cine 4
+http://rb-group-server.com:25461/12341234/12341234/5057
+#EXTINF:-1,TV  Series
+http://rb-group-server.com:25461/12341234/12341234/5061
+#EXTINF:-1,TV. Globo
+http://rb-group-server.com:25461/12341234/12341234/5020
+#EXTINF:-1,TV Record
+http://rb-group-server.com:25461/12341234/12341234/5041
+#EXTINF:-1,TV Urbana
+http://rb-group-server.com:25461/12341234/12341234/5038
+#EXTINF:-1,TVE/TV Cultura
+http://rb-group-server.com:25461/12341234/12341234/5040
+#EXTINF:-1,TVI
+http://rb-group-server.com:25461/12341234/12341234/5042
+#EXTINF:-1,E! Entertainment
+http://rb-group-server.com:25461/12341234/12341234/5044
+#EXTINF:-1,Discovery. Showcase HD
+http://rb-group-server.com:25461/12341234/12341234/5023
+#EXTINF:-1,National Geographic .Wild
+http://rb-group-server.com:25461/12341234/12341234/5001
+#EXTINF:-1,Disney. Junior
+http://rb-group-server.com:25461/12341234/12341234/5064
+#EXTINF:-1,Fox.Comedy
+http://rb-group-server.com:25461/12341234/12341234/5053
+#EXTINF:-1,Fox Crime HD.
+http://rb-group-server.com:25461/12341234/12341234/5054
+#EXTINF:-1,Fox. HD
+http://rb-group-server.com:25461/12341234/12341234/5056
+#EXTINF:-1,Fox. Life HD
+http://rb-group-server.com:25461/12341234/12341234/5052
+#EXTINF:-1,Fox .Movies
+http://rb-group-server.com:25461/12341234/12341234/5055
+#EXTINF:-1,Benfica TV1
+http://rb-group-server.com:25461/12341234/12341234/5069
+#EXTINF:-1,Benfica TV 2
+http://rb-group-server.com:25461/12341234/12341234/5068
+#EXTINF:-1,Sport TV 1HD
+http://rb-group-server.com:25461/12341234/12341234/5035
+#EXTINF:-1,Sport TV 2HD
+http://rb-group-server.com:25461/12341234/12341234/5034
+#EXTINF:-1,Sport TV 3HD
+http://rb-group-server.com:25461/12341234/12341234/5033
+#EXTINF:-1,Sport TV 4HD
+http://rb-group-server.com:25461/12341234/12341234/5032
+#EXTINF:-1,Sport TV 5HD
+http://rb-group-server.com:25461/12341234/12341234/5031
 
