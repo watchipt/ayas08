@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="BO:france1" tvg-logo="" group-title="{BOUQUET_NAME}",BO:france1
+http://212.8.253.47:88/live/329056230761828/329056230761828/3689.m3u8
+#EXTINF:-1 tvg-name="Iptv4sat.com :france-2" tvg-logo="" group-title="{BOUQUET_NAME}",Iptv4sat.com :france-2
+http://212.8.253.47:88/live/329056230761828/329056230761828/3690.m3u8
+#EXTINF:-1 tvg-name="BO:France-3" tvg-logo="" group-title="{BOUQUET_NAME}",BO:France-3
+http://212.8.253.47:88/live/329056230761828/329056230761828/3712.m3u8
+#EXTINF:-1 tvg-name="BO:France-4" tvg-logo="" group-title="{BOUQUET_NAME}",BO:France-4
+http://212.8.253.47:88/live/329056230761828/329056230761828/3692.m3u8
+#EXTINF:-1 tvg-name="BO:France-5" tvg-logo="" group-title="{BOUQUET_NAME}",BO:France-5
+http://212.8.253.47:88/live/329056230761828/329056230761828/3693.m3u8
+#EXTINF:-1 tvg-name="BO:France-6" tvg-logo="" group-title="{BOUQUET_NAME}",Iptv4sat.com :France-6
+http://212.8.253.47:88/live/329056230761828/329056230761828/3694.m3u8
+#EXTINF:-1 tvg-name="BO:france_7" tvg-logo="" group-title="{BOUQUET_NAME}",BO:france_7
+http://212.8.253.47:88/live/329056230761828/329056230761828/3695.m3u8
+#EXTINF:-1 tvg-name="BO:france_8" tvg-logo="" group-title="{BOUQUET_NAME}",BO:france_8
+http://212.8.253.47:88/live/329056230761828/329056230761828/3696.m3u8
+#EXTINF:-1 tvg-name="BO:france_9" tvg-logo="" group-title="{BOUQUET_NAME}",BO:france_9
+http://212.8.253.47:88/live/329056230761828/329056230761828/3697.m3u8
+#EXTINF:-1 tvg-name="BO:Eng1" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng1
+http://212.8.253.47:88/live/329056230761828/329056230761828/3751.m3u8
+#EXTINF:-1 tvg-name="BO:Eng2" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng2
+http://212.8.253.47:88/live/329056230761828/329056230761828/3752.m3u8
+#EXTINF:-1 tvg-name="BO:Eng3" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng3
+http://212.8.253.47:88/live/329056230761828/329056230761828/3753.m3u8
+#EXTINF:-1 tvg-name="BO:Eng4" tvg-logo="" group-title="{BOUQUET_NAME}",Iptv4sat.com :Eng4
+http://212.8.253.47:88/live/329056230761828/329056230761828/3754.m3u8
+#EXTINF:-1 tvg-name="BO:Eng5" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng5
+http://212.8.253.47:88/live/329056230761828/329056230761828/3755.m3u8
+#EXTINF:-1 tvg-name="BO:Eng6" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng6
+http://212.8.253.47:88/live/329056230761828/329056230761828/3756.m3u8
+#EXTINF:-1 tvg-name="BO:Eng7" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng7
+http://212.8.253.47:88/live/329056230761828/329056230761828/3757.m3u8
+#EXTINF:-1 tvg-name="BO:Eng8" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng8
+http://212.8.253.47:88/live/329056230761828/329056230761828/3762.m3u8
+#EXTINF:-1 tvg-name="BO:Eng9" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng9
+http://212.8.253.47:88/live/329056230761828/329056230761828/3763.m3u8
