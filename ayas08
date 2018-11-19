@@ -1,55 +1,642 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Enf-Disney Junior" tvg-logo="http://logo.ndasat.com/iptv/images/2858_disneyjunior.jpg" group-title="{BOUQUET_NAME}",Enf-Disney Junior
-http://212.8.253.47:88/live/329056230761828/329056230761828/1523.m3u8
-#EXTINF:-1 tvg-name="Enf-Disney XD" tvg-logo="http://logo.ndasat.com/iptv/images/75344_disneyxd.jpg" group-title="{BOUQUET_NAME}",Enf-Disney XD
-http://212.8.253.47:88/live/329056230761828/329056230761828/2165.m3u8
-#EXTINF:-1 tvg-name="Enf-Disney fr" tvg-logo="http://logo.ndasat.com/iptv/images/38957_disney_channel_global.png" group-title="{BOUQUET_NAME}",Enf-Disney fr
-http://212.8.253.47:88/live/329056230761828/329056230761828/300.m3u8
-#EXTINF:-1 tvg-name="Enf-Disney Cinemagic" tvg-logo="http://logo.ndasat.com/iptv/images/50870_disney_cinema_fr.png" group-title="{BOUQUET_NAME}",Enf-Disney Cinemagic
-http://212.8.253.47:88/live/329056230761828/329056230761828/298.m3u8
-#EXTINF:-1 tvg-name="Enf-CanalJ" tvg-logo="http://logo.ndasat.com/iptv/images/24431_images.jpg" group-title="{BOUQUET_NAME}",Enf-CanalJ
-http://212.8.253.47:88/live/329056230761828/329056230761828/492.m3u8
-#EXTINF:-1 tvg-name="Enf-MANGA HD" tvg-logo="http://logo.ndasat.com/iptv/images/87787_mangas_fr.png" group-title="{BOUQUET_NAME}",Enf-MANGA HD
-http://212.8.253.47:88/live/329056230761828/329056230761828/490.m3u8
-#EXTINF:-1 tvg-name="J-one" tvg-logo="" group-title="{BOUQUET_NAME}",J-one
-http://212.8.253.47:88/live/329056230761828/329056230761828/3673.m3u8
-#EXTINF:-1 tvg-name="Toonami" tvg-logo="" group-title="{BOUQUET_NAME}",Toonami
-http://212.8.253.47:88/live/329056230761828/329056230761828/3670.m3u8
-#EXTINF:-1 tvg-name="Game one" tvg-logo="http://logo.ndasat.com/iptv/images/87708_gameone.jpg" group-title="{BOUQUET_NAME}",Game one
-http://212.8.253.47:88/live/329056230761828/329056230761828/1524.m3u8
-#EXTINF:-1 tvg-name="InfoSport" tvg-logo="http://logo.ndasat.com/iptv/images/19280_infosport.jpg" group-title="{BOUQUET_NAME}",InfoSport
-http://212.8.253.47:88/live/329056230761828/329056230761828/500.m3u8
-#EXTINF:-1 tvg-name="Bein Sport 1 HD" tvg-logo="http://logo.ndasat.com/iptv/images/97180_111.png" group-title="{BOUQUET_NAME}",Iptv4sat.com Bein Sport 1 HD
-http://212.8.253.47:88/live/329056230761828/329056230761828/69.m3u8
-#EXTINF:-1 tvg-name="Bein Sport 2 HD" tvg-logo="http://logo.ndasat.com/iptv/images/70321_112.png" group-title="{BOUQUET_NAME}",Bein Sport 2 HD
-http://212.8.253.47:88/live/329056230761828/329056230761828/70.m3u8
-#EXTINF:-1 tvg-name="Bein Sport 3 HD" tvg-logo="http://logo.ndasat.com/iptv/images/37013_113.png" group-title="{BOUQUET_NAME}",Bein Sport 3 HD
-http://212.8.253.47:88/live/329056230761828/329056230761828/71.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORT MAX4" tvg-logo="http://logo.ndasat.com/iptv/images/57944_bmmn.png" group-title="{BOUQUET_NAME}",BEIN SPORT MAX4
-http://212.8.253.47:88/live/329056230761828/329056230761828/978.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORT MAX5" tvg-logo="http://logo.ndasat.com/iptv/images/42861_bmmn.png" group-title="{BOUQUET_NAME}",BEIN SPORT MAX5
-http://212.8.253.47:88/live/329056230761828/329056230761828/979.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORT MAX6" tvg-logo="http://logo.ndasat.com/iptv/images/49607_bmmn.png" group-title="{BOUQUET_NAME}",BEIN SPORT MAX6
-http://212.8.253.47:88/live/329056230761828/329056230761828/980.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORT MAX7" tvg-logo="http://logo.ndasat.com/iptv/images/39770_bmmn.png" group-title="{BOUQUET_NAME}",BEIN SPORT MAX7
-http://212.8.253.47:88/live/329056230761828/329056230761828/981.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORT MAX8" tvg-logo="http://logo.ndasat.com/iptv/images/73757_bmmn.png" group-title="{BOUQUET_NAME}",BEIN SPORT MAX8
-http://212.8.253.47:88/live/329056230761828/329056230761828/982.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 1" tvg-logo="http://logo.ndasat.com/iptv/images/26403_sfr1.jpg" group-title="{BOUQUET_NAME}",FR:RMC Sport 1
-http://212.8.253.47:88/live/329056230761828/329056230761828/1554.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 2" tvg-logo="http://logo.ndasat.com/iptv/images/52324_sfr2.png" group-title="{BOUQUET_NAME}",FR:RMC Sport 2
-http://212.8.253.47:88/live/329056230761828/329056230761828/1555.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 3" tvg-logo="http://logo.ndasat.com/iptv/images/65878_sfr3.jpg" group-title="{BOUQUET_NAME}",FR:RMC Sport 3
-http://212.8.253.47:88/live/329056230761828/329056230761828/1556.m3u8
-#EXTINF:-1 tvg-name="FR:RMC Sport 4" tvg-logo="http://logo.ndasat.com/iptv/images/62380_sfr5.png" group-title="{BOUQUET_NAME}",FR:RMC Sport 4
-http://212.8.253.47:88/live/329056230761828/329056230761828/1612.m3u8
-#EXTINF:-1 tvg-name="Foot 24" tvg-logo="http://logo.ndasat.com/iptv/images/62683_CHN43FB_542.PNG" group-title="{BOUQUET_NAME}",Foot 24
-http://212.8.253.47:88/live/329056230761828/329056230761828/975.m3u8
-#EXTINF:-1 tvg-name="Eurosport" tvg-logo="http://logo.ndasat.com/iptv/images/10651_Eurosport1.jpg" group-title="{BOUQUET_NAME}",Eurosport
-http://212.8.253.47:88/live/329056230761828/329056230761828/572.m3u8
-#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="http://logo.ndasat.com/iptv/images/33563_744.png" group-title="{BOUQUET_NAME}",Eurosport 2
-http://212.8.253.47:88/live/329056230761828/329056230761828/287.m3u8
-#EXTINF:-1 tvg-name="Equipe 21" tvg-logo="http://logo.ndasat.com/iptv/images/67164_267.png" group-title="{BOUQUET_NAME}",Equipe 21
-http://212.8.253.47:88/live/329056230761828/329056230761828/580.m3u8
-#EXTINF:-1 tvg-name="Equidia live fr" tvg-logo="http://logo.ndasat.com/iptv/images/55236_logoequidia.png" group-title="{BOUQUET_NAME}",Equidia live fr
-http://212.8.253.47:88/live/329056230761828/329056230761828/1409.m3u8
+#EXTINF:-1,Axn. Black HD
+http://rb-group-server.com:25461/12341234/12341234/5048
+#EXTINF:-1,AXN. HD
+http://rb-group-server.com:25461/12341234/12341234/5050
+#EXTINF:-1,Axn. White HD
+http://rb-group-server.com:25461/12341234/12341234/5049
+#EXTINF:-1,RTP 1
+http://rb-group-server.com:25461/12341234/12341234/5076
+#EXTINF:-1,RTP 2
+http://rb-group-server.com:25461/12341234/12341234/5075
+#EXTINF:-1,RTP 3
+http://rb-group-server.com:25461/12341234/12341234/5074
+#EXTINF:-1,RTP  Acores
+http://rb-group-server.com:25461/12341234/12341234/5070
+#EXTINF:-1,RTP Africa
+http://rb-group-server.com:25461/12341234/12341234/5071
+#EXTINF:-1,RTP Madeira
+http://rb-group-server.com:25461/12341234/12341234/5072
+#EXTINF:-1,RTP Memoria
+http://rb-group-server.com:25461/12341234/12341234/5073
+#EXTINF:-1,TV Cine 1HD
+http://rb-group-server.com:25461/12341234/12341234/5060
+#EXTINF:-1,TV Cine 2
+http://rb-group-server.com:25461/12341234/12341234/5059
+#EXTINF:-1,TV Cine 3
+http://rb-group-server.com:25461/12341234/12341234/5058
+#EXTINF:-1,TV Cine 4
+http://rb-group-server.com:25461/12341234/12341234/5057
+#EXTINF:-1,TV  Series
+http://rb-group-server.com:25461/12341234/12341234/5061
+#EXTINF:-1,TV. Globo
+http://rb-group-server.com:25461/12341234/12341234/5020
+#EXTINF:-1,TV Record
+http://rb-group-server.com:25461/12341234/12341234/5041
+#EXTINF:-1,TV Urbana
+http://rb-group-server.com:25461/12341234/12341234/5038
+#EXTINF:-1,TVE/TV Cultura
+http://rb-group-server.com:25461/12341234/12341234/5040
+#EXTINF:-1,TVI
+http://rb-group-server.com:25461/12341234/12341234/5042
+#EXTINF:-1,24 Kitchen HD
+http://rb-group-server.com:25461/12341234/12341234/5014
+#EXTINF:-1,E! Entertainment
+http://rb-group-server.com:25461/12341234/12341234/5044
+#EXTINF:-1,Discovery. Showcase HD
+http://rb-group-server.com:25461/12341234/12341234/5023
+#EXTINF:-1,National Geographic .Wild
+http://rb-group-server.com:25461/12341234/12341234/5001
+#EXTINF:-1,Disney. Junior
+http://rb-group-server.com:25461/12341234/12341234/5064
+#EXTINF:-1,Fox.Comedy
+http://rb-group-server.com:25461/12341234/12341234/5053
+#EXTINF:-1,Fox Crime HD.
+http://rb-group-server.com:25461/12341234/12341234/5054
+#EXTINF:-1,Fox. HD
+http://rb-group-server.com:25461/12341234/12341234/5056
+#EXTINF:-1,Fox. Life HD
+http://rb-group-server.com:25461/12341234/12341234/5052
+#EXTINF:-1,Fox .Movies
+http://rb-group-server.com:25461/12341234/12341234/5055
+#EXTINF:-1,Benfica TV1
+http://rb-group-server.com:25461/12341234/12341234/5069
+#EXTINF:-1,Benfica TV 2
+http://rb-group-server.com:25461/12341234/12341234/5068
+#EXTINF:-1,Sport TV 1HD
+http://rb-group-server.com:25461/12341234/12341234/5035
+#EXTINF:-1,Sport TV 2HD
+http://rb-group-server.com:25461/12341234/12341234/5034
+#EXTINF:-1,Sport TV 3HD
+http://rb-group-server.com:25461/12341234/12341234/5033
+#EXTINF:-1,Sport TV 4HD
+http://rb-group-server.com:25461/12341234/12341234/5032
+#EXTINF:-1,Sport TV 5HD
+http://rb-group-server.com:25461/12341234/12341234/5031
+
+#EXTINF:-1 tvg-name="PT:TV Cine 3" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:TV Cine 3
+http://212.8.253.47:88/329056230761828/329056230761828/2057
+#EXTINF:-1 tvg-name="PT:TV Cine 4" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:TV Cine 4
+http://212.8.253.47:88/329056230761828/329056230761828/2058
+#EXTINF:-1 tvg-name="PT:TV Globo" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:TV Globo
+http://212.8.253.47:88/329056230761828/329056230761828/2054
+#EXTINF:-1 tvg-name="PT:TV Globo Premium" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:TV Globo Premium
+http://212.8.253.47:88/329056230761828/329056230761828/2053
+#EXTINF:-1 tvg-name="PT:TV Record" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:TV Record
+http://212.8.253.47:88/329056230761828/329056230761828/2052
+#EXTINF:-1 tvg-name="SYFy PT" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",SYFy PT
+http://212.8.253.47:88/329056230761828/329056230761828/2060
+#EXTINF:-1 tvg-name="PT:SIC RADICAL" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:SIC RADICAL
+http://212.8.253.47:88/329056230761828/329056230761828/2063
+#EXTINF:-1 tvg-name="PT:SIC NOTICIAS" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:SIC NOTICIAS
+http://212.8.253.47:88/329056230761828/329056230761828/2064
+#EXTINF:-1 tvg-name="PT:SIC MULHER" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:SIC MULHER
+http://212.8.253.47:88/329056230761828/329056230761828/2065
+#EXTINF:-1 tvg-name="PT:Sic Kids" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Sic Kids
+http://212.8.253.47:88/329056230761828/329056230761828/2066
+#EXTINF:-1 tvg-name="PT:SIC CARAS" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:SIC CARAS
+http://212.8.253.47:88/329056230761828/329056230761828/2067
+#EXTINF:-1 tvg-name="PT:SIC" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:SIC
+http://212.8.253.47:88/329056230761828/329056230761828/2068
+#EXTINF:-1 tvg-name="PT:Canal Panda" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Canal Panda
+http://212.8.253.47:88/329056230761828/329056230761828/2106
+#EXTINF:-1 tvg-name="PT:Cartoon Network" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Cartoon Network
+http://212.8.253.47:88/329056230761828/329056230761828/2104
+#EXTINF:-1 tvg-name="PT:Nat Geo Wild" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Nat Geo Wild
+http://212.8.253.47:88/329056230761828/329056230761828/2082
+#EXTINF:-1 tvg-name="PT:Nickelodeon pt" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Nickelodeon pt
+http://212.8.253.47:88/329056230761828/329056230761828/2081
+#EXTINF:-1 tvg-name="PT:Odessia" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Odessia
+http://212.8.253.47:88/329056230761828/329056230761828/2080
+#EXTINF:-1 tvg-name="PT:PFC" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:PFC
+http://212.8.253.47:88/329056230761828/329056230761828/2079
+#EXTINF:-1 tvg-name="PT:Porto Canal" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Porto Canal
+http://212.8.253.47:88/329056230761828/329056230761828/2078
+#EXTINF:-1 tvg-name="PT:RTP 1" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:RTP 1
+http://212.8.253.47:88/329056230761828/329056230761828/2077
+#EXTINF:-1 tvg-name="PT:RTP 2" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:RTP 2
+http://212.8.253.47:88/329056230761828/329056230761828/2076
+#EXTINF:-1 tvg-name="PT:RTP 3" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:RTP 3
+http://212.8.253.47:88/329056230761828/329056230761828/2075
+#EXTINF:-1 tvg-name="PT:RTP ACores" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:RTP ACores
+http://212.8.253.47:88/329056230761828/329056230761828/2074
+#EXTINF:-1 tvg-name="PT:RTP Africa" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:RTP Africa
+http://212.8.253.47:88/329056230761828/329056230761828/2073
+#EXTINF:-1 tvg-name="RTP Internacional" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",RTP Internacional
+http://212.8.253.47:88/329056230761828/329056230761828/2072
+#EXTINF:-1 tvg-name="PT:RTP MADEIRA" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:RTP MADEIRA
+http://212.8.253.47:88/329056230761828/329056230761828/2071
+#EXTINF:-1 tvg-name="PT:RTP Memoria" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:RTP Memoria
+http://212.8.253.47:88/329056230761828/329056230761828/2070
+#EXTINF:-1 tvg-name="PT:SBT Brasil" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:SBT Brasil
+http://212.8.253.47:88/329056230761828/329056230761828/2069
+#EXTINF:-1 tvg-name="PT:Feul TV" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Feul TV
+http://212.8.253.47:88/329056230761828/329056230761828/2093
+#EXTINF:-1 tvg-name="PT:Fox" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Fox
+http://212.8.253.47:88/329056230761828/329056230761828/2092
+#EXTINF:-1 tvg-name="PT:Fox Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Fox Comedy
+http://212.8.253.47:88/329056230761828/329056230761828/2091
+#EXTINF:-1 tvg-name="PT:Fox Life" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Fox Life
+http://212.8.253.47:88/329056230761828/329056230761828/2089
+#EXTINF:-1 tvg-name="PT:Fox Movies" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Fox Movies
+http://212.8.253.47:88/329056230761828/329056230761828/2088
+#EXTINF:-1 tvg-name="PT:Jim Jam" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Jim Jam
+http://212.8.253.47:88/329056230761828/329056230761828/2086
+#EXTINF:-1 tvg-name="PT:Motorviszion TV" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Motorviszion TV
+http://212.8.253.47:88/329056230761828/329056230761828/2085
+#EXTINF:-1 tvg-name="PT:Sport TV4" tvg-logo="http://logo.ndasat.com/iptv/images/76080_sporttv.png" group-title="{BOUQUET_NAME}",PT:Sport TV4
+http://212.8.253.47:88/329056230761828/329056230761828/67
+#EXTINF:-1 tvg-name="PT:Sport TV3" tvg-logo="http://logo.ndasat.com/iptv/images/40778_sporttv.png" group-title="{BOUQUET_NAME}",PT:Sport TV3
+http://212.8.253.47:88/329056230761828/329056230761828/66
+#EXTINF:-1 tvg-name="PT:Sport TV2" tvg-logo="http://logo.ndasat.com/iptv/images/49026_sporttv.png" group-title="{BOUQUET_NAME}",PT:Sport TV2
+http://212.8.253.47:88/329056230761828/329056230761828/65
+#EXTINF:-1 tvg-name="PT:Sport TV1" tvg-logo="http://logo.ndasat.com/iptv/images/58004_sporttv.png" group-title="{BOUQUET_NAME}",PT:Sport TV1
+http://212.8.253.47:88/329056230761828/329056230761828/64
+#EXTINF:-1 tvg-name="PT:Eleven Sports1" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",PT:Eleven Sports1
+http://212.8.253.47:88/329056230761828/329056230761828/2892
+#EXTINF:-1 tvg-name="PT:Eleven Sports2" tvg-logo="http://logo.ndasat.com/iptv/images/90453_sports.jpg" group-title="{BOUQUET_NAME}",PT:Eleven Sports2
+http://212.8.253.47:88/329056230761828/329056230761828/2927
+#EXTINF:-1 tvg-name="PT:AMC" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:AMC
+http://212.8.253.47:88/329056230761828/329056230761828/2113
+#EXTINF:-1 tvg-name="PT:AXN" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:AXN
+http://212.8.253.47:88/329056230761828/329056230761828/2112
+#EXTINF:-1 tvg-name="PT:AXN Black" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:AXN Black
+http://212.8.253.47:88/329056230761828/329056230761828/2111
+#EXTINF:-1 tvg-name="PT:AXN White" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:AXN White
+http://212.8.253.47:88/329056230761828/329056230761828/2110
+#EXTINF:-1 tvg-name="PT:Fox Crime" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Fox Crime
+http://212.8.253.47:88/329056230761828/329056230761828/2090
+#EXTINF:-1 tvg-name="PT:Nat geo" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Nat geo
+http://212.8.253.47:88/329056230761828/329056230761828/2083
+#EXTINF:-1 tvg-name="PT:Hollywood" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",PT:Hollywood
+http://212.8.253.47:88/329056230761828/329056230761828/2087
+
+#EXTINF:-1,PT: ABOLA TV
+http://vmdirect.co.uk:5001/live/Errol/Errol/3904.ts
+#EXTINF:-1,PT: AMCHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/3914.ts
+#EXTINF:-1,PT: AXN
+http://vmdirect.co.uk:5001/live/Errol/Errol/3789.ts
+#EXTINF:-1,PT: AXN BLACK HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/3901.ts
+#EXTINF:-1,PT: AXN WHITE
+http://vmdirect.co.uk:5001/live/Errol/Errol/3797.ts
+#EXTINF:-1,PT: Baby First
+http://vmdirect.co.uk:5001/live/Errol/Errol/3892.ts
+#EXTINF:-1,PT: BENFICA TV1
+http://vmdirect.co.uk:5001/live/Errol/Errol/3767.ts
+#EXTINF:-1,PT: Caça e Pesca
+http://vmdirect.co.uk:5001/live/Errol/Errol/3911.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://vmdirect.co.uk:5001/live/Errol/Errol/3899.ts
+#EXTINF:-1,PT: Canal Q
+http://vmdirect.co.uk:5001/live/Errol/Errol/3896.ts
+#EXTINF:-1,PT: CARTOON NETWORK
+http://vmdirect.co.uk:5001/live/Errol/Errol/3898.ts
+#EXTINF:-1,PT: CINEMUNDO
+http://vmdirect.co.uk:5001/live/Errol/Errol/3915.ts
+#EXTINF:-1,PT: DISCOVERY
+http://vmdirect.co.uk:5001/live/Errol/Errol/3805.ts
+#EXTINF:-1,PT: DISCOVERY HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/3913.ts
+#EXTINF:-1,PT: Disney Channel HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/3893.ts
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://vmdirect.co.uk:5001/live/Errol/Errol/3796.ts
+#EXTINF:-1,PT: E Entertainment
+http://vmdirect.co.uk:5001/live/Errol/Errol/3903.ts
+#EXTINF:-1,PT: EUROSPORT 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/3773.ts
+#EXTINF:-1,PT: EUROSPORT 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/3920.ts
+#EXTINF:-1,PT: Food Network
+http://vmdirect.co.uk:5001/live/Errol/Errol/3781.ts
+#EXTINF:-1,PT: FOX
+http://vmdirect.co.uk:5001/live/Errol/Errol/3794.ts
+#EXTINF:-1,PT: FOX MOVIES
+http://vmdirect.co.uk:5001/live/Errol/Errol/3790.ts
+#EXTINF:-1,PT: FoxComedy
+http://vmdirect.co.uk:5001/live/Errol/Errol/3780.ts
+#EXTINF:-1,PT: FoxCrime
+http://vmdirect.co.uk:5001/live/Errol/Errol/3779.ts
+#EXTINF:-1,PT: FoxLife HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/3778.ts
+#EXTINF:-1,PT: GLOBO TV
+http://vmdirect.co.uk:5001/live/Errol/Errol/3795.ts
+#EXTINF:-1,PT: Hist
+http://vmdirect.co.uk:5001/live/Errol/Errol/3910.ts
+#EXTINF:-1,PT: HOLLYWOOD
+http://vmdirect.co.uk:5001/live/Errol/Errol/3804.ts
+#EXTINF:-1,PT: JimJam
+http://vmdirect.co.uk:5001/live/Errol/Errol/3897.ts
+#EXTINF:-1,PT: Kombat Sport
+http://vmdirect.co.uk:5001/live/Errol/Errol/3917.ts
+#EXTINF:-1,PT: Motorvision HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/3919.ts
+#EXTINF:-1,PT: Mov HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/3777.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://vmdirect.co.uk:5001/live/Errol/Errol/3912.ts
+#EXTINF:-1,PT: NATIONAL GEO
+http://vmdirect.co.uk:5001/live/Errol/Errol/3803.ts
+#EXTINF:-1,PT: Nickelodeon
+http://vmdirect.co.uk:5001/live/Errol/Errol/3894.ts
+#EXTINF:-1,PT: ODISEA
+http://vmdirect.co.uk:5001/live/Errol/Errol/3788.ts
+#EXTINF:-1,PT: Panda BIGGS
+http://vmdirect.co.uk:5001/live/Errol/Errol/3895.ts
+#EXTINF:-1,PT: PFC
+http://vmdirect.co.uk:5001/live/Errol/Errol/3802.ts
+#EXTINF:-1,PT: Porto Canal
+http://vmdirect.co.uk:5001/live/Errol/Errol/3921.ts
+#EXTINF:-1,PT: Real Madrid
+http://vmdirect.co.uk:5001/live/Errol/Errol/3918.ts
+#EXTINF:-1,PT: RTP 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/3807.ts
+#EXTINF:-1,PT: RTP 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/3806.ts
+#EXTINF:-1,PT: RTP 3
+http://vmdirect.co.uk:5001/live/Errol/Errol/3776.ts
+#EXTINF:-1,PT: RTP Açores
+http://vmdirect.co.uk:5001/live/Errol/Errol/3908.ts
+#EXTINF:-1,PT: RTP Madeira
+http://vmdirect.co.uk:5001/live/Errol/Errol/3907.ts
+#EXTINF:-1,PT: RTP Memória
+http://vmdirect.co.uk:5001/live/Errol/Errol/3906.ts
+#EXTINF:-1,PT: SIC
+http://vmdirect.co.uk:5001/live/Errol/Errol/3787.ts
+#EXTINF:-1,PT: SIC Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/3786.ts
+#EXTINF:-1,PT: SIC NOTICIAS
+http://vmdirect.co.uk:5001/live/Errol/Errol/3784.ts
+#EXTINF:-1,PT: SPORT TV+
+http://vmdirect.co.uk:5001/live/Errol/Errol/3783.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/3772.ts
+#EXTINF:-1,PT: SPORT TV 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/3771.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/3770.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://vmdirect.co.uk:5001/live/Errol/Errol/3769.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://vmdirect.co.uk:5001/live/Errol/Errol/3768.ts
+#EXTINF:-1,PT: SyFy
+http://vmdirect.co.uk:5001/live/Errol/Errol/3775.ts
+#EXTINF:-1,PT: TLC
+http://vmdirect.co.uk:5001/live/Errol/Errol/3900.ts
+#EXTINF:-1,PT: TOROS
+http://vmdirect.co.uk:5001/live/Errol/Errol/3782.ts
+#EXTINF:-1,PT: TV CINE 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/3801.ts
+#EXTINF:-1,PT: TV CINE 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/3800.ts
+#EXTINF:-1,PT: TV CINE 3
+http://vmdirect.co.uk:5001/live/Errol/Errol/3799.ts
+#EXTINF:-1,PT: TV CINE 4
+http://vmdirect.co.uk:5001/live/Errol/Errol/3798.ts
+#EXTINF:-1,PT: RecordTV
+http://vmdirect.co.uk:5001/live/Errol/Errol/3902.ts
+#EXTINF:-1,PT: TV SERIES HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/3916.ts
+#EXTINF:-1,PT: TVI
+http://vmdirect.co.uk:5001/live/Errol/Errol/3785.ts
+#EXTINF:-1,PT: TVI 24
+http://vmdirect.co.uk:5001/live/Errol/Errol/3774.ts
+#EXTINF:-1,PT: TVI FICÇÃO
+http://vmdirect.co.uk:5001/live/Errol/Errol/3905.ts
+#EXTINF:-1,PT: TVI REALITY
+http://vmdirect.co.uk:5001/live/Errol/Errol/3791.ts
+#EXTINF:-1,PT: SIC mulher
+http://vmdirect.co.uk:5001/live/Errol/Errol/9682.ts
+
+#EXTINF:-1,PT- 24 Kitchen HD
+http://m-iptv.net:6204/marwan/123/8876
+#EXTINF:-1,PT- A&E
+http://m-iptv.net:6204/marwan/123/8875
+#EXTINF:-1,PT- ABOLA TV
+http://m-iptv.net:6204/marwan/123/8874
+#EXTINF:-1,PT- Afro Music
+http://m-iptv.net:6204/marwan/123/8873
+#EXTINF:-1,PT- AXN BLACK HD
+http://m-iptv.net:6204/marwan/123/8872
+#EXTINF:-1,PT- AXN HD
+http://m-iptv.net:6204/marwan/123/8871
+#EXTINF:-1,PT- AXN WHITE
+http://m-iptv.net:6204/marwan/123/8870
+#EXTINF:-1,PT- Baby Tv
+http://m-iptv.net:6204/marwan/123/8869
+#EXTINF:-1,PT- Biggs
+http://m-iptv.net:6204/marwan/123/8868
+#EXTINF:-1,PT- BTV 1 HD
+http://m-iptv.net:6204/marwan/123/8867
+#EXTINF:-1,PT- Caca & Pesca
+http://m-iptv.net:6204/marwan/123/8866
+#EXTINF:-1,PT- Canal Historia
+http://m-iptv.net:6204/marwan/123/8865
+#EXTINF:-1,PT- CANAL PANDA
+http://m-iptv.net:6204/marwan/123/8864
+#EXTINF:-1,PT- Cancao Nova
+http://m-iptv.net:6204/marwan/123/8863
+#EXTINF:-1,PT- Cartoon NetWork
+http://m-iptv.net:6204/marwan/123/8862
+#EXTINF:-1,PT- CBS Reality
+http://m-iptv.net:6204/marwan/123/8861
+#EXTINF:-1,PT- CINEMUNDO
+http://m-iptv.net:6204/marwan/123/8860
+#EXTINF:-1,PT- CMTV
+http://m-iptv.net:6204/marwan/123/8859
+#EXTINF:-1,PT- Discovery Channel
+http://m-iptv.net:6204/marwan/123/8858
+#EXTINF:-1,PT- Discovery Showcase HD
+http://m-iptv.net:6204/marwan/123/8857
+#EXTINF:-1,PT- Disney Channel
+http://m-iptv.net:6204/marwan/123/8856
+#EXTINF:-1,PT- E! Entertaunment
+http://m-iptv.net:6204/marwan/123/8855
+#EXTINF:-1,PT- EUroNews
+http://m-iptv.net:6204/marwan/123/8854
+#EXTINF:-1,PT- EUROSPORT 1
+http://m-iptv.net:6204/marwan/123/8853
+#EXTINF:-1,PT- EUROSPORT 2
+http://m-iptv.net:6204/marwan/123/8852
+#EXTINF:-1,PT- EuroSport 2 XTRA HD
+http://m-iptv.net:6204/marwan/123/8851
+#EXTINF:-1,PT- EUROSPORT NEWS
+http://m-iptv.net:6204/marwan/123/8850
+#EXTINF:-1,PT- FOX COMEDY
+http://m-iptv.net:6204/marwan/123/8849
+#EXTINF:-1,PT- FOX Crime HD
+http://m-iptv.net:6204/marwan/123/8848
+#EXTINF:-1,PT- FOX HD
+http://m-iptv.net:6204/marwan/123/8847
+#EXTINF:-1,PT- Fox Life HD
+http://m-iptv.net:6204/marwan/123/8846
+#EXTINF:-1,PT- FOX Movies
+http://m-iptv.net:6204/marwan/123/8845
+#EXTINF:-1,PT- Fuel TV
+http://m-iptv.net:6204/marwan/123/8844
+#EXTINF:-1,PT- FX
+http://m-iptv.net:6204/marwan/123/8843
+#EXTINF:-1,PT- Globo
+http://m-iptv.net:6204/marwan/123/8842
+#EXTINF:-1,PT- Globo Premium
+http://m-iptv.net:6204/marwan/123/8841
+#EXTINF:-1,PT- Historia
+http://m-iptv.net:6204/marwan/123/8840
+#EXTINF:-1,PT- Hollywood HD
+http://m-iptv.net:6204/marwan/123/8839
+#EXTINF:-1,PT- MCM Pop
+http://m-iptv.net:6204/marwan/123/8838
+#EXTINF:-1,PT- Motors TV
+http://m-iptv.net:6204/marwan/123/8837
+#EXTINF:-1,PT- Motorvision
+http://m-iptv.net:6204/marwan/123/8836
+#EXTINF:-1,PT- MOV
+http://m-iptv.net:6204/marwan/123/8835
+#EXTINF:-1,PT- MTV Portugal
+http://m-iptv.net:6204/marwan/123/8834
+#EXTINF:-1,PT- Nat Geo Wild
+http://m-iptv.net:6204/marwan/123/8833
+#EXTINF:-1,PT- National Geographic HD
+http://m-iptv.net:6204/marwan/123/8832
+#EXTINF:-1,PT- Nickelodeon
+http://m-iptv.net:6204/marwan/123/8831
+#EXTINF:-1,PT- Odisseia
+http://m-iptv.net:6204/marwan/123/8830
+#EXTINF:-1,PT- PFC
+http://m-iptv.net:6204/marwan/123/8829
+#EXTINF:-1,PT- Porto Canal
+http://m-iptv.net:6204/marwan/123/8828
+#EXTINF:-1,PT- Record News
+http://m-iptv.net:6204/marwan/123/8827
+#EXTINF:-1,PT- RTP 1
+http://m-iptv.net:6204/marwan/123/8826
+#EXTINF:-1,PT- RTP 2
+http://m-iptv.net:6204/marwan/123/8825
+#EXTINF:-1,PT- RTP 3
+http://m-iptv.net:6204/marwan/123/8824
+#EXTINF:-1,PT- RTP Acores
+http://m-iptv.net:6204/marwan/123/8823
+#EXTINF:-1,PT- RTP Ãfrica
+http://m-iptv.net:6204/marwan/123/8822
+#EXTINF:-1,PT- RTP Madeira
+http://m-iptv.net:6204/marwan/123/8821
+#EXTINF:-1,PT- RTP Memoria
+http://m-iptv.net:6204/marwan/123/8820
+#EXTINF:-1,PT- SIC
+http://m-iptv.net:6204/marwan/123/8819
+#EXTINF:-1,PT- SIC Caras
+http://m-iptv.net:6204/marwan/123/8818
+#EXTINF:-1,PT- SIC HD
+http://m-iptv.net:6204/marwan/123/8817
+#EXTINF:-1,PT- SIC K
+http://m-iptv.net:6204/marwan/123/8816
+#EXTINF:-1,PT- SIC Kids HD
+http://m-iptv.net:6204/marwan/123/8815
+#EXTINF:-1,PT- SIC Mulher
+http://m-iptv.net:6204/marwan/123/8814
+#EXTINF:-1,PT- SIC Noticias
+http://m-iptv.net:6204/marwan/123/8813
+#EXTINF:-1,PT- SIC Noticias HD
+http://m-iptv.net:6204/marwan/123/8812
+#EXTINF:-1,PT- SIC Radical
+http://m-iptv.net:6204/marwan/123/8811
+#EXTINF:-1,PT- SPORT TV
+http://m-iptv.net:6204/marwan/123/8810
+#EXTINF:-1,PT- SPORT TV   HD
+http://m-iptv.net:6204/marwan/123/8809
+#EXTINF:-1,PT- SPORTING TV
+http://m-iptv.net:6204/marwan/123/8808
+#EXTINF:-1,PT- SPORTTV 1 HD
+http://m-iptv.net:6204/marwan/123/8807
+#EXTINF:-1,PT- SPORTTV 1 SD
+http://m-iptv.net:6204/marwan/123/8806
+#EXTINF:-1,PT- SPORTTV 2 HD
+http://m-iptv.net:6204/marwan/123/8805
+#EXTINF:-1,PT- SPORTTV 2 SD
+http://m-iptv.net:6204/marwan/123/8804
+#EXTINF:-1,PT- SPORTTV 3 HD
+http://m-iptv.net:6204/marwan/123/8803
+#EXTINF:-1,PT- SPORTTV 3 SD
+http://m-iptv.net:6204/marwan/123/8802
+#EXTINF:-1,PT- SPORTTV 4 HD
+http://m-iptv.net:6204/marwan/123/8801
+#EXTINF:-1,PT- SPORTTV 5 HD
+http://m-iptv.net:6204/marwan/123/8800
+#EXTINF:-1,PT- TLC
+http://m-iptv.net:6204/marwan/123/8799
+#EXTINF:-1,PT- TPA Angola
+http://m-iptv.net:6204/marwan/123/8798
+#EXTINF:-1,PT- Travel Channel HD
+http://m-iptv.net:6204/marwan/123/8797
+#EXTINF:-1,PT- TV Globo Premium
+http://m-iptv.net:6204/marwan/123/8796
+#EXTINF:-1,PT- TVCINE 1 HD
+http://m-iptv.net:6204/marwan/123/8795
+#EXTINF:-1,PT- TVCINE 2 HD
+http://m-iptv.net:6204/marwan/123/8794
+#EXTINF:-1,PT- TVCINE 3 HD
+http://m-iptv.net:6204/marwan/123/8793
+#EXTINF:-1,PT- TVCINE 4 HD
+http://m-iptv.net:6204/marwan/123/8792
+#EXTINF:-1,PT- TVE Internacional
+http://m-iptv.net:6204/marwan/123/8791
+#EXTINF:-1,PT- TVI
+http://m-iptv.net:6204/marwan/123/8790
+#EXTINF:-1,PT- Tvi 24
+http://m-iptv.net:6204/marwan/123/8789
+#EXTINF:-1,PT- TVI FICCAO
+http://m-iptv.net:6204/marwan/123/8788
+#EXTINF:-1,PT- TVI REALITY
+http://m-iptv.net:6204/marwan/123/8787
+
+#EXTINF:-1,RTP 1
+http://rb-group-server.com:25461/live/444777/777444/5076.m3u8
+#EXTINF:-1,RTP 2
+http://rb-group-server.com:25461/live/444777/777444/5075.m3u8
+#EXTINF:-1,RTP 3
+http://rb-group-server.com:25461/live/444777/777444/5074.m3u8
+#EXTINF:-1,RTP  Acores
+http://rb-group-server.com:25461/live/444777/777444/5070.m3u8
+#EXTINF:-1,RTP Africa
+http://rb-group-server.com:25461/live/444777/777444/5071.m3u8
+#EXTINF:-1,RTP Madeira
+http://rb-group-server.com:25461/live/444777/777444/5072.m3u8
+#EXTINF:-1,RTP Memoria
+http://rb-group-server.com:25461/live/444777/777444/5073.m3u8
+#EXTINF:-1,TV Cine 1HD
+http://rb-group-server.com:25461/live/444777/777444/5060.m3u8
+#EXTINF:-1,TV Cine 2
+http://rb-group-server.com:25461/live/444777/777444/5059.m3u8
+#EXTINF:-1,TV Cine 3
+http://rb-group-server.com:25461/live/444777/777444/5058.m3u8
+#EXTINF:-1,TV Cine 4
+http://rb-group-server.com:25461/live/444777/777444/5057.m3u8
+#EXTINF:-1,TV  Series
+http://rb-group-server.com:25461/live/444777/777444/5061.m3u8
+#EXTINF:-1,TV. Globo
+http://rb-group-server.com:25461/live/444777/777444/5020.m3u8
+#EXTINF:-1,TV Record
+http://rb-group-server.com:25461/live/444777/777444/5041.m3u8
+#EXTINF:-1,TV Urbana
+http://rb-group-server.com:25461/live/444777/777444/5038.m3u8
+#EXTINF:-1,TVE/TV Cultura
+http://rb-group-server.com:25461/live/444777/777444/5040.m3u8
+#EXTINF:-1,TVI
+http://rb-group-server.com:25461/live/444777/777444/5042.m3u8
+#EXTINF:-1,24 Kitchen HD
+http://rb-group-server.com:25461/live/444777/777444/5014.m3u8
+#EXTINF:-1,Axn. Black HD
+http://rb-group-server.com:25461/live/444777/777444/5048.m3u8
+#EXTINF:-1,AXN. HD
+http://rb-group-server.com:25461/live/444777/777444/5050.m3u8
+#EXTINF:-1,Axn. White HD
+http://rb-group-server.com:25461/live/444777/777444/5049.m3u8
+#EXTINF:-1,E! Entertainment
+http://rb-group-server.com:25461/live/444777/777444/5044.m3u8
+#EXTINF:-1,Discovery. Showcase HD
+http://rb-group-server.com:25461/live/444777/777444/5023.m3u8
+#EXTINF:-1,National Geographic .Wild
+http://rb-group-server.com:25461/live/444777/777444/5001.m3u8
+#EXTINF:-1,Disney. Junior
+http://rb-group-server.com:25461/live/444777/777444/5064.m3u8
+#EXTINF:-1,Fox.Comedy
+http://rb-group-server.com:25461/live/444777/777444/5053.m3u8
+#EXTINF:-1,Fox Crime HD.
+http://rb-group-server.com:25461/live/444777/777444/5054.m3u8
+#EXTINF:-1,Fox. HD
+http://rb-group-server.com:25461/live/444777/777444/5056.m3u8
+#EXTINF:-1,Fox. Life HD
+http://rb-group-server.com:25461/live/444777/777444/5052.m3u8
+#EXTINF:-1,Fox .Movies
+http://rb-group-server.com:25461/live/444777/777444/5055.m3u8
+#EXTINF:-1,Benfica TV1
+http://rb-group-server.com:25461/live/444777/777444/5069.m3u8
+#EXTINF:-1,Benfica TV 2
+http://rb-group-server.com:25461/live/444777/777444/5068.m3u8
+#EXTINF:-1,Sport TV 1HD
+http://rb-group-server.com:25461/live/444777/777444/5035.m3u8
+#EXTINF:-1,Sport TV 2HD
+http://rb-group-server.com:25461/live/444777/777444/5034.m3u8
+#EXTINF:-1,Sport TV 3HD
+http://rb-group-server.com:25461/live/444777/777444/5033.m3u8
+#EXTINF:-1,Sport TV 4HD
+http://rb-group-server.com:25461/live/444777/777444/5032.m3u8
+#EXTINF:-1,Sport TV 5HD
+http://rb-group-server.com:25461/live/444777/777444/5031.m3u8
+
+#EXTINF:-1,24 Kitchen HD
+http://rb-group-server.com:25461/ASTON1/ASTON1/5014
+#EXTINF:-1,Axn. Black HD
+http://rb-group-server.com:25461/ASTON1/ASTON1/5048
+#EXTINF:-1,AXN. HD
+http://rb-group-server.com:25461/ASTON1/ASTON1/5050
+#EXTINF:-1,Axn. White HD
+http://rb-group-server.com:25461/ASTON1/ASTON1/5049
+#EXTINF:-1,RTP 1
+http://rb-group-server.com:25461/ASTON1/ASTON1/5076
+#EXTINF:-1,RTP 2
+http://rb-group-server.com:25461/ASTON1/ASTON1/5075
+#EXTINF:-1,RTP 3
+http://rb-group-server.com:25461/ASTON1/ASTON1/5074
+#EXTINF:-1,RTP  Acores
+http://rb-group-server.com:25461/ASTON1/ASTON1/5070
+#EXTINF:-1,RTP Africa
+http://rb-group-server.com:25461/ASTON1/ASTON1/5071
+#EXTINF:-1,RTP Madeira
+http://rb-group-server.com:25461/ASTON1/ASTON1/5072
+#EXTINF:-1,RTP Memoria
+http://rb-group-server.com:25461/ASTON1/ASTON1/5073
+#EXTINF:-1,TV Cine 1HD
+http://rb-group-server.com:25461/ASTON1/ASTON1/5060
+#EXTINF:-1,TV Cine 2
+http://rb-group-server.com:25461/ASTON1/ASTON1/5059
+#EXTINF:-1,TV Cine 3
+http://rb-group-server.com:25461/ASTON1/ASTON1/5058
+#EXTINF:-1,TV Cine 4
+http://rb-group-server.com:25461/ASTON1/ASTON1/5057
+#EXTINF:-1,TV  Series
+http://rb-group-server.com:25461/ASTON1/ASTON1/5061
+#EXTINF:-1,TV. Globo
+http://rb-group-server.com:25461/ASTON1/ASTON1/5020
+#EXTINF:-1,TV Record
+http://rb-group-server.com:25461/ASTON1/ASTON1/5041
+#EXTINF:-1,TV Urbana
+http://rb-group-server.com:25461/ASTON1/ASTON1/5038
+#EXTINF:-1,TVE/TV Cultura
+http://rb-group-server.com:25461/ASTON1/ASTON1/5040
+#EXTINF:-1,TVI
+http://rb-group-server.com:25461/ASTON1/ASTON1/5042
+#EXTINF:-1,E! Entertainment
+http://rb-group-server.com:25461/ASTON1/ASTON1/5044
+#EXTINF:-1,Discovery. Showcase HD
+http://rb-group-server.com:25461/ASTON1/ASTON1/5023
+#EXTINF:-1,National Geographic .Wild
+http://rb-group-server.com:25461/ASTON1/ASTON1/5001
+#EXTINF:-1,Disney. Junior
+http://rb-group-server.com:25461/ASTON1/ASTON1/5064
+#EXTINF:-1,Fox.Comedy
+http://rb-group-server.com:25461/ASTON1/ASTON1/5053
+#EXTINF:-1,Fox Crime HD.
+http://rb-group-server.com:25461/ASTON1/ASTON1/5054
+#EXTINF:-1,Fox. HD
+http://rb-group-server.com:25461/ASTON1/ASTON1/5056
+#EXTINF:-1,Fox. Life HD
+http://rb-group-server.com:25461/ASTON1/ASTON1/5052
+#EXTINF:-1,Fox .Movies
+http://rb-group-server.com:25461/ASTON1/ASTON1/5055
+#EXTINF:-1,Benfica TV1
+http://rb-group-server.com:25461/ASTON1/ASTON1/5069
+#EXTINF:-1,Benfica TV 2
+http://rb-group-server.com:25461/ASTON1/ASTON1/5068
+#EXTINF:-1,Sport TV 1HD
+http://rb-group-server.com:25461/ASTON1/ASTON1/5035
+#EXTINF:-1,Sport TV 2HD
+http://rb-group-server.com:25461/ASTON1/ASTON1/5034
+#EXTINF:-1,Sport TV 3HD
+http://rb-group-server.com:25461/ASTON1/ASTON1/5033
+#EXTINF:-1,Sport TV 4HD
+http://rb-group-server.com:25461/ASTON1/ASTON1/5032
+#EXTINF:-1,Sport TV 5HD
+http://rb-group-server.com:25461/ASTON1/ASTON1/5031
