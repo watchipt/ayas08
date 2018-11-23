@@ -57,10 +57,38 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 http://iptv.didanurwanda.com/channel/live/tvr-parlemen.m3u8
 #EXTINF:-1, RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1,beIN HD1
-http://free-iptv.pro:8000/YL10012/Mu1829/33275
-#EXTINF:-1,beIN HD1
-http://free-iptv.pro:8000/YL10012/Mu1829/9480
+#EXTINF:-1, "FOX HD"
+http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/221.ts
+#EXTINF:-1, "Disney JR"
+http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/213.ts
+#EXTINF:-1, "Nikledeon"
+http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/41827.ts
+#EXTINF:-1, "Bein sport 1"
+http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/47368.ts
+#EXTINF:-1, "Bein sport 2"
+http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/47369.ts
+#EXTINF:-1, "Bein sport 4"
+http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/47371.ts
+#EXTINF:-1, "Bein Sport 3"
+http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/47370.ts
+#EXTINF:-1, "Sport 1 HD"
+http://50.7.149.34:25461/live/gW3ijlsDmj/rOmcocCA5z/3063.ts
+#EXTINF:-1, "Sport HD 2"
+http://50.7.149.34:25461/live/gW3ijlsDmj/rOmcocCA5z/3064.ts
+#EXTINF:-1, Rai 1 hd
+http://50.7.149.34:25461/live/gW3ijlsDmj/rOmcocCA5z/3038.ts
+#EXTINF:-1, Rai 2 hd
+http://50.7.149.34:25461/live/gW3ijlsDmj/rOmcocCA5z/3039.ts
+#EXTINF:-1, Rai 3 hd
+http://50.7.149.34:25461/live/gW3ijlsDmj/rOmcocCA5z/3040.ts
+#EXTINF:-1, Italy hd
+http://50.7.149.34:25461/live/gW3ijlsDmj/rOmcocCA5z/3045.ts
+#EXTINF:-1, Rai Movies
+http://193.200.164.176:8000/live/cihankarip/5530009944/26782.ts
+#EXTINF:-1, Rai
+http://193.200.164.176:8000/live/cihankarip/5530009944/26778.ts
+#EXTINF:-1, Carton Italy
+http://193.200.164.176:8000/live/cihankarip/5530009944/26772.ts
 
 
 
