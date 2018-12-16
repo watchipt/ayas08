@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1, NET. HD
+http://ez-tracker.net/tvz/Net
+#EXTINF:-1, NET. TV
+http://ez-tracker.net/tvz/Net_2
+#EXTINF:-1, TRANSTV
+http://ez-tracker.net/tvz/TransTV
+#EXTINF:-1, TRANS7
+http://ez-tracker.net/tvz/Trans7
+#EXTINF:-1, RCTI
+http://ez-tracker.net/tvz/RCTI
+#EXTINF:-1, SCTV
+http://ez-tracker.net/tvz/SCTV
+#EXTINF:-1, MNC
+http://ez-tracker.net/tvz/MNC
+#EXTINF:-1, INDOSIAR
+http://ez-tracker.net/tvz/MNC
+#EXTINF:-1, ANTV
+http://ez-tracker.net/tvz/MNC
+#EXTINF:-1, GLOBAL TV
+http://ez-tracker.net/tvz/GTV
+#EXTINF:-1, METROTV
+http://ez-tracker.net/tvz/Metro_TV
+#EXTINF:-1, TV ONE
+http://ez-tracker.net/tvz/TVONE
+#EXTINF:-1, JTV
+http://ez-tracker.net/tvz/JTV
+#EXTINF:-1, RTV
+http://ez-tracker.net/tvz/RTV
+#EXTINF:-1, KOMPAS TV
+http://ez-tracker.net/tvz/KOMPASTV
+#EXTINF:-1, SINDO TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, CNN
+http://ez-tracker.net/tvz/CNN
+#EXTINF:-1, BERITA SATU
+http://ez-tracker.net/tvz/BERITA_SATU
+#EXTINF:-1, BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:-1, JAKARTA GLOBE 
+http://ez-tracker.net/tvz/JAKARTA_GLOBE
+#EXTINF:-1, RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1,TVRI_SPORT
+http://ez-tracker.net/tvz/TVRI_SPORT
+#EXTINF:-1,dangdut
+http://ez-tracker.net/tvz/dangdut
+#EXTINF:-1,KIDS
+http://ez-tracker.net/tvz/NM_KIDS
+#EXTINF:-1,KIDS Cartoon
+http://ez-tracker.net/tvz/kc
+#EXTINF:-1, Eleven SPort
+http://hotiptv.ddns.net:8000/ratinho/ratinho/1
+#EXTINF:-1, Nilkedeon
+http://fulliptvnki.me:80/MCsjhVMHd0/D8jc1Dvt95/28033
+
+#EXTINF:-1, HBO
+http://210.210.155.35/uq2663/h/h231/index2.m3u8
+#EXTINF:-1, FOX 
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1, KIDS Animal
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1, KIDS Cartoon
+http://persik.by/stream/2944/263250/32.m3u8
+#EXTINF:-1, SPORT MU tv
+https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
+#EXTINF:-1, Sport Lga gojek
+http://id1.indostreamingtv.com/live/tv11/index.m3u8
+#EXTINF:-1, ESPN 1
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1, ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1, Sony six
+http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
+#EXTINF:-1, Sony Ten 
+#EXTINF:-1, FOX Sport 2
+http://23.237.22.82:8086/udp/127.0.0.1:56047
+#EXTINF:-1, Astro Arena
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1, Astro Sporrt
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+#EXTINF:-1, Disney junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1, FOX movies premium
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
